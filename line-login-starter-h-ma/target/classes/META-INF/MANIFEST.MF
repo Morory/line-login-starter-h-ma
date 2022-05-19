@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: h-ma
+Build-Jdk: 11.0.9
+Implementation-Title: line-login-starter
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.linecorp.sample.login
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://github.com/line/line-login-starter
+Created-By: Maven Integration for Eclipse
+
